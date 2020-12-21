@@ -1,4 +1,16 @@
-### Hi there 👋
+### Hi there 👋, I'm Kim 
+
+## I'm a Research Software Engineer. 
+- 🔭 I’m currently working on data engineering for covid19 and bacterial surveillance at [Statens Serum Institut][https://www.ssi.dk/] 
+- 🌱 I’m currently learning on how to scale our IT for increased throughput
+
+### Languages and tools
+<img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
+<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Github" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img align="left" alt="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Visual Studio" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
+
 
 <!--
 **kimleeng/kimleeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
