@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Kim 
 
 ## I'm a Research Software Engineer. 
-- 🔭 I’m currently working on data engineering for covid19 and bacterial surveillance at [Statens Serum Institut][https://www.ssi.dk/] 
+- 🔭 I’m currently working on data engineering for covid19 and bacterial surveillance at [Statens Serum Institut](https://www.ssi.dk/)
 - 🌱 I’m currently learning on how to scale our IT for increased throughput
 
 ### Languages and tools
