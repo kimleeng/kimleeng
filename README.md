@@ -6,12 +6,14 @@
 
 ### Current tech stack
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/>
-<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg"/>
 <img align="left" alt="MongoDB" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 <img align="left" alt="Github" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img align="left" alt="JavaScript" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img align="left" alt="Docker" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img align="left" alt="Singularity" width="50px" src="https://singularity.lbl.gov/images/logo/logo.svg"/>
 <img align="left" alt="Visual Studio" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"/>
 <img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+<img align="left" alt="Sphinx" width="50px" src="https://avatars3.githubusercontent.com/u/31936682?s=280&v=4/>
 
 
 <!--
