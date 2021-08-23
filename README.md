@@ -15,7 +15,8 @@
 [<img align="left" alt="Sphinx" width="50px" src="https://avatars3.githubusercontent.com/u/31936682?s=280&v=4" />](github)
 
 ### Social Media
-[LinkedIn] (https://www.linkedin.com/in/kimleeng/)
+[<img align="left" alt="LinkedIn" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" />](https://www.linkedin.com/in/kimleeng/)
+
 
 <!--
 **kimleeng/kimleeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
